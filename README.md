@@ -54,6 +54,6 @@ Demo: [JayBee TikTok Downloader](https://t.me/JayBeeTikTokBot)
 
 ---
 ### Star the Repo if you find it useful :heart:
-### © [TerminalWarlord](https://t.me/JayBeeBots)
+### © [TerminalWarlord](https://t.me/tiktoksa)
 #### All Rights Reserved
 ---
